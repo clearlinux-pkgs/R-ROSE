@@ -4,7 +4,7 @@
 #
 Name     : R-ROSE
 Version  : 0.0.4
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/ROSE_0.0-4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ROSE_0.0-4.tar.gz
 Summary  : Random Over-Sampling Examples
